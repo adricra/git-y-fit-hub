@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(24, 81, 155, 0.575);
+    color: rgb(17, 224, 197);
+}
+h1{
+    font-family: sans-serif;
+}
